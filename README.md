@@ -18,4 +18,5 @@
 - [Selected U3D Japanese Font](https://assetstore.unity.com/packages/2d/fonts/selected-u3d-japanese-font-337)
 - [Casual Puzzle World Sounds - Free Package](https://assetstore.unity.com/packages/audio/music/casual-puzzle-world-sounds-free-package-123537)
 - [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+- [Rounded Blocks by Gamertose](https://assetstore.unity.com/packages/2d/textures-materials/nature/rounded-blocks-by-gamertose-50492)
 
